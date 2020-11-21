@@ -1,6 +1,3 @@
-changes are from github
-one line added from local
-second line added from git hub
+one line added
+second line added
 third line added
-fourth line added
-fifth line
